@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/fptrade-provider-user/pom.xml" />
         <option value="$PROJECT_DIR$/fptrader-provider-product/pom.xml" />
         <option value="$PROJECT_DIR$/fptrade-provider-api/pom.xml" />
+        <option value="$PROJECT_DIR$/fptrade-provider-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fptrade-provider-trade/pom.xml" />
       </list>
     </option>
   </component>

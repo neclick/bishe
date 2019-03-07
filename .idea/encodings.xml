@@ -3,7 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/fptrade-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fptrade-provider-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fptrade-provider-trade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fptrade-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fptrade-provider-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fptrader-provider-product" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

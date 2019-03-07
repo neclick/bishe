@@ -9,7 +9,9 @@
         <module name="fptrade-eureka" />
         <module name="fptrade-master" />
         <module name="fptrade-provider-api" />
+        <module name="fptrade-provider-trade" />
         <module name="fptrade-provider-user" />
+        <module name="fptrade-provider-web" />
         <module name="fptrader-provider-product" />
       </profile>
     </annotationProcessing>
