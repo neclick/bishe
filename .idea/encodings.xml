@@ -2,9 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/fptrade-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fptrade-provider-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fptrade-provider-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fptrader-provider-product" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/provider-product" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

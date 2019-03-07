@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="fptrade-eureka" />
         <module name="fptrade-master" />
+        <module name="fptrade-provider-api" />
         <module name="fptrade-provider-user" />
         <module name="fptrader-provider-product" />
       </profile>
